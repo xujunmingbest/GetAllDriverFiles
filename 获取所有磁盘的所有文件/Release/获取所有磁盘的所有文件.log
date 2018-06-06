@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(121): warning C4101: “FilePathName”: 未引用的局部变量
+  正在生成代码
+  0 of 190 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  获取所有磁盘的所有文件.vcxproj -> E:\c++\获取所有磁盘的所有文件\Release\获取所有磁盘的所有文件.exe
+  获取所有磁盘的所有文件.vcxproj -> E:\c++\获取所有磁盘的所有文件\Release\获取所有磁盘的所有文件.pdb (Full PDB)
